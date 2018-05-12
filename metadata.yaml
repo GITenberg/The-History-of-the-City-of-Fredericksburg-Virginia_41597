@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41253'
     url: http://www.gutenberg.org/2009/agents/41253
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41597#The-History-of-the-City-of-Fredericksburg-Virginia
 gutenberg_issued: '2012-12-10'
 gutenberg_type: Text
 identifiers:
